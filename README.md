@@ -1,19 +1,20 @@
-# Vanilla JS
+Project to build a TODO List web with Vanilla JS.
+=============
 
-[*let, const, var*](https://www.notion.so/let-const-var-ad5f5378f4ac4abea542809df44aa83b)
+![image](https://user-images.githubusercontent.com/59834529/145953663-333758c1-e9ab-4f09-8581-e6a88e17a96a.png)
 
-[*null undefined*](https://www.notion.so/null-undefined-f6ee92b52db4432ebc5a9390c34ea665)
+Demo Link
+-------------
+[Demo Link](https://woobin-todolist.netlify.app)
 
-[**Searching For Elements**](https://www.notion.so/Searching-For-Elements-183e90e854984459ba061e9689e669d9)
 
-[**Events**](https://www.notion.so/Events-88d21b35f50a461387a3bb3539fe6609)
+Development goal.
+-------------
+JavaScript의 다른 프레임워크나 라이브러리를 사용하지 않고 VanillaJS 만으로 하루 일정을 정리하는 TodoList 웹페이지 구축
 
-[classList className](https://www.notion.so/classList-className-dcd3d9d443f5483091d154553bf91f3d)
-
-[**LocalStorage**](https://www.notion.so/LocalStorage-097ab87e5c224612b502cf2b7d06fd89)
-
-[setInterval() setTimeout()](https://www.notion.so/setInterval-setTimeout-ed2fe45f85f949d0acd4c1a1bf14c5f8)
-
-[padStart() padEnd()](https://www.notion.so/padStart-padEnd-9ef33fc89b304e83bd1636896c5ac624)
-
-[JS HTML TAG Function](https://www.notion.so/JS-HTML-TAG-Function-b87e7d0845694896ba128e6fbf9bb07e)
+Skills
+-------------
+- HTML
+- CSS
+- JavaScript
+- localStorage
