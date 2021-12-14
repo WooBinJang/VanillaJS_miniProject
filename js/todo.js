@@ -18,13 +18,15 @@ function todoListDelete(event) {
 
 function paintTodo(newToDoObj) {
   const li = document.createElement("li");
+
   li.id = newToDoObj.id;
   const span = document.createElement("span");
+  span.classList.add("todospan");
   const button = document.createElement("button");
   li.appendChild(span);
   span.innerHTML = newToDoObj.text;
   li.appendChild(button);
-  button.innerHTML = "X";
+  button.innerHTML = "❌";
   button.addEventListener("click", todoListDelete);
 
   todoList.appendChild(li);

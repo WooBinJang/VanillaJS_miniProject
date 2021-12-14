@@ -15,7 +15,7 @@ function loginClick(event) {
 
 if (localStorage.length > 0) {
   h1.classList.remove("hidden");
-  h1.innerHTML = localStorage.getItem("username");
+  h1.innerHTML = `Hello ${localStorage.getItem("username")}`;
   loginForm.classList.add("hidden");
 }
 
